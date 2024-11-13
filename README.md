@@ -1,1 +1,3 @@
-# tesla_gamestop_stock_analysis
+# Tesla & GameStop Stock Analysis
+
+Analyzing Historical Stock/Revenue Data and Building a Dashboard
